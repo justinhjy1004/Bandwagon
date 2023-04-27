@@ -1,0 +1,5 @@
+03_RegressionAnalysis/Data/
+__pycache__/
+.ipynb_checkpoints/
+02_DataExtraction/credentials.py
+.Rhistory/
